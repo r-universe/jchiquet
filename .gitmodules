@@ -8,3 +8,8 @@
 	url = https://github.com/jchiquet/aricode
 	shallow = true
 	registered = true
+[submodule "quadrupen"]
+	path = quadrupen
+	url = https://github.com/jchiquet/quadrupen
+	shallow = true
+	registered = true

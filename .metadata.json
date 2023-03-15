@@ -2,5 +2,9 @@
   {
     "package": "aricode",
     "oncran": true
+  },
+  {
+    "package": "quadrupen",
+    "oncran": true
   }
 ]
