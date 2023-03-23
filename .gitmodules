@@ -13,3 +13,8 @@
 	url = https://github.com/jchiquet/quadrupen
 	shallow = true
 	registered = true
+[submodule "spinyReg"]
+	path = spinyReg
+	url = https://github.com/cran/spinyReg
+	shallow = true
+	registered = true
