@@ -5,6 +5,9 @@
 [submodule "aricode"]
 	path = aricode
 	url = https://github.com/jchiquet/aricode
+[submodule "normalblockr"]
+	path = normalblockr
+	url = https://github.com/jchiquet/normalblockr
 [submodule "quadrupen"]
 	path = quadrupen
 	url = https://github.com/jchiquet/quadrupen
